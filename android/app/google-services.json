@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460654999966",
+    "firebase_url": "https://miaged-96eb7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "miaged-96eb7",
+    "storage_bucket": "miaged-96eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460654999966:android:6b9cc39a25fda00d8d3e8f",
+        "android_client_info": {
+          "package_name": "com.example.miaage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460654999966-m6iqp35fmavju4fv83khbsuosbitcf2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Kg10O1Cpp2D4rfktqzFG6Hz0BcRsr6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460654999966-m6iqp35fmavju4fv83khbsuosbitcf2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
